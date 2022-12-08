@@ -1,4 +1,4 @@
-const username = "Андрей";
+const username = "Виталя";
 let age;
- age=19;
+ age=10;
  console.log(username,age );
